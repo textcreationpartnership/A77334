@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I pray you be not angry: for I will make you merry A pleasant and merry dialogue between two travellers, as they met on the highway.</title>
+            <author>Breton, Nicholas, 1545?-1626?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77334</idno>
+            <idno type="STC">Wing B4386A</idno>
+            <idno type="STC">ESTC R229776</idno>
+            <idno type="EEBO-CITATION">99895692</idno>
+            <idno type="PROQUEST">99895692</idno>
+            <idno type="VID">153060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2344:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>I pray you be not angry: for I will make you merry A pleasant and merry dialogue between two travellers, as they met on the highway.</title>
+                  <author>Breton, Nicholas, 1545?-1626?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop, for Samuel Rand, and are to be sold at his shop at Holborn-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Nicholas Breton.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153060:1" rendition="simple:additions"/>
+            <p>I PRAY YOV Be not Angry: For I will make you MERRY.</p>
+            <p>A Pleaſant and merry Dialogue between two Travellers, as they met on the High<g ref="char:EOLhyphen"/>way.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Bernard Alſop,</hi> for <hi>Samuel Rand,</hi> and are to be ſold at his Shop at Holborn-Bridge, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:153060:2" rendition="simple:additions"/>
+            <pb facs="tcp:153060:2"/>
+            <head>A Merry Dialogue between two Tra<g ref="char:EOLhyphen"/>vellers upon the High-way, touching their Croſſes, and of the Virtue of <hi>Patience.</hi>
+            </head>
+            <stage>
+               <hi>Fabiano</hi> and <hi>Fernunio.</hi>
+            </stage>
+            <sp>
+               <speaker>Fernunio,</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">F</seg>Abian,</hi> Good morrow: How do you, and how far walk you this way?</p>
+            </sp>
+            <sp>
+               <speaker>Fabian.</speaker>
+               <p>I do as you ſée, neither of the beſt, nor the worſt: and am travelling not very far, &amp; yet ſomewhat more than a pretty walk; about ſome hundred miles or two for a breathing, to teach the dancing legs of my youth, to plod for the proviſion of mine old age: &amp; ſince it is no better, it is well it is no worſe: for ſince I have done my ſelf more wrong, than I can make my ſelf amends, I muſt be contented with a pudding, while others may feaſt, that have better fare.</p>
+            </sp>
+            <sp>
+               <speaker>Fern.</speaker>
+               <p>Then <hi>I pray you be not angry;</hi> for <hi>Patience</hi> is a plaiſter for all pain, it is the very poiſon of all ſorrow, a preparative to all comfort, and the onely quieter of a troubled ſpirit.</p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>Why how now? Have you been a Scholler ſince I ſaw you? Truely I deſire not to trouble your memory, with ſaying over your leſſon without book: all you Adverbs and your Proverbs, will not do me a pins worth of pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Fern.</speaker>
+               <p>Oh <hi>Fabian!</hi> have patience, <hi>be not angry</hi> with your fortune, there are Flouds as well as Ebs: <hi>Time</hi> hath his turn, and <hi>Fortune</hi> may be as great a friend as ſhe hath been an enemy: the Stars may
+<pb facs="tcp:153060:3"/>one day ſhine over your houſe, as wel as your neighbours: and there<g ref="char:EOLhyphen"/>fore ſtay your hour, you know not when it will come; and therefore take no thought: <hi>I pray you be not angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>Wel <hi>Fernunio</hi> to your ſentences: let me tel you, y<hi rend="sup">e</hi> you know, that I know, that you know, that when you and I did firſt know one another, you knew the world was better with me, than to let me plod up and down in this manner, with no more Company but my Dog, and my plain Cudgel: but it is no matter, all is one, for ha<g ref="char:EOLhyphen"/>ving plaid wily beguily with my ſelf. I can thank no body for my hard bargain: for in the time of my youth (the moſt perilous point of mans age) falling into ſuch acquaintance as were ſmally to my commodity, as well of the Maſculine as the Feminine gendr who ſo long fed mine humour with folly, that I fell almoſt into a Con<g ref="char:EOLhyphen"/>ſumption, before I found the Nature of the diſeaſe: at length (though ſomewhat late, yet better late than never) remembring y<hi rend="sup">e</hi> my father left me more land than wit, and Nature being more Mi<g ref="char:EOLhyphen"/>ſtris than Reaſon over my il ruled ſences: &amp; ſéeing the world at ſuch a paſſe that I could have wel wiſhed to have been out of it; finding my friends ſcorn of me, my foes ſcoff at me; ſome few pitty me, and few co<g ref="char:cmbAbbrStroke">̄</g>fort me. I reſolved to ſhake of my Shake-rags, and to retire my ſelf unto fo<g ref="char:cmbAbbrStroke">̄</g>e ſolitary place, where having left one fool to laugh at another; one Villain to cut anothers throat, and one honeſt man to be an example to a whole Pariſh; I betook me to a travelling life, rather to hear, than to ſpeak how the world went, and to note the courſes of the wife, rather than enter into the courſes of the wicked whereof y<hi rend="sup">e</hi> world is ſo ful, y<hi rend="sup">e</hi> a man can ſcarce eſcape their intectio<g ref="char:cmbAbbrStroke">̄</g>: why? if I ſhould tel you how I have béen uſed amo<g ref="char:cmbAbbrStroke">̄</g>g the<g ref="char:cmbAbbrStroke">̄</g>, you would ſay I had good cauſe <hi>to be Angry</hi> with my ſelf, or ſome body elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>And yet I ſay, <hi>I pray be not angry:</hi> for if it be with your ſelf, fretting wil but breed melancholy, and mela<g ref="char:cmbAbbrStroke">̄</g>choly bring you to ſuch a ſickneſs that you may repent it when it is too late. And <hi>to be An<g ref="char:EOLhyphen"/>gry</hi> with any other, if you ca<g ref="char:cmbAbbrStroke">̄</g>not reve<g ref="char:cmbAbbrStroke">̄</g>ge it it is a folly: if you do, it is uncharitable: for you muſt forgive. For if I ſhould tell you of ſome tricks that were put upon me, when I was as wiſe as any Gooſe upon Bedlame Green, I ſhould make you believe, that although I preach <hi>Patience</hi> to you, I ſhould have cauſe to have little acquaint<g ref="char:EOLhyphen"/>ance with her my ſelf: but ſpight of the Divel I hope to go to hea<g ref="char:EOLhyphen"/>ven, though I carry more croſſes in my heart, tha<g ref="char:cmbAbbrStroke">̄</g> in my purſe, yet
+<pb facs="tcp:153060:3"/>I hope (with my fellow begger) to be in <hi>Abrahams</hi> beſome, when a rich Churle ſhall dance with <hi>Dives</hi> in a worſe place: and therefore as a friend let me ſay to you, knowing what is good for you; whatſo<g ref="char:EOLhyphen"/>ever fortune befall you, <hi>I pray you be not Angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>I muſt confeſſe it is good Councel to have <hi>Patience,</hi> for <hi>Pati<g ref="char:EOLhyphen"/>ence</hi> is a pretty virtue, but y<hi rend="sup">e</hi> it waits upon a number of Villanies; but let me tel you, if a man ſpend all the mony in his purſe upon a company of unthankful villains, and when he commeth to the bot<g ref="char:EOLhyphen"/>tom of his purſe, and there finding nothing, intreateth with his friends (as he hath held them) but for an Ordinary or two; and ſcof fingly put off, cannot get a penny among them: what can ye have in all the rule of <hi>Patience?</hi> onely fret at the heart, to hear men ſay <hi>I pray you be not Angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>And yet let me tel you, that when <hi>Anger</hi> wil not avail him, it is better to be <hi>Patient,</hi> than <hi>Angry;</hi> for I have heard it ſpoken by a wiſe man <hi>That he who cannot be Angry, is a Fool; but he that will be Angry, is more Fool:</hi> for when I was (as you ſaid, and I may ſay) in the prime of my time, I may ſay in the fooliſh pride of youth, when all the Gold in the Pariſh, was copper to my ſilver: and my wit w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s beyond reaſon, when I was the onely fool of the World: Oh then (to tel you) I was overtaken in the half turn would make one run out of his wits and into them again, if it were poſſible: for ſay this, if a man hath no deformity in his proportion, is no Wood<g ref="char:EOLhyphen"/>cock for his ordinary courſe of wit, hath wealth enough to live by his neighbours without borrowing, is of parentage with the beſt of the Pariſh is in the way of good ſpeed w<hi rend="sup">t</hi> a match worth y<hi rend="sup">e</hi> making of: &amp; leaving all honeſt wiſe, and good councel ſorſaketh his fortune and binds himſelf Prentice, during life, to an il favoured baggage, the worſt child that her father had, whoſe beauty is like the back of a ſea-coal chimny, and for proportion, the true proportion of a ſea<g ref="char:EOLhyphen"/>crab as much wit as a gray gooſe, and manners as a blind Mare, &amp; no more wealth than the wool on a ſhorn ſheep: beſides the iſſue of idle drunkenneſs, which being grounded in all fooliſhneſs, can away w<hi rend="sup">t</hi> nothing, but worſe the<g ref="char:cmbAbbrStroke">̄</g> nothing: whoſe to<g ref="char:cmbAbbrStroke">̄</g>gue can kéep no ſecrets; whoſe heart can think no goodneſs and whoſe life is a world of un<g ref="char:EOLhyphen"/>quietneſſe: &amp; ſpight of his heart having take<g ref="char:cmbAbbrStroke">̄</g> her for better or worſe, (when ſhe cannot wel be worſe and wil be no better) muſt hold out his life worſe than ten deaths with her: ſay your ſelf that whe<g ref="char:cmbAbbrStroke">̄</g> a ma<g ref="char:cmbAbbrStroke">̄</g>
+                  <pb facs="tcp:153060:4"/>thinks of this miſery it would fret him to the very heart; but where is the remedy.</p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>Oh! <hi>I pray you be not angry:</hi> for if a man ſhould have a Si<g ref="char:EOLhyphen"/>ſter whom he loveth dearly, whoſe beauty and virtue were a Dow<g ref="char:EOLhyphen"/>ry for a Prince, her Linage Noble, her perſon comely, her nature kind, her government ſo diſcreet, that by the judgment of the wiſe, ſhe was a match for the worthy: to ſée this bleſſed creature, by y<hi rend="sup">e</hi> cru<g ref="char:EOLhyphen"/>elty of the fates, beſtowed upon the baſtard ſon of a Beggar whoſe father was a villain, his mother a fool, and he a Changeling whoſe eyes were thrée foot out of his head, his noſe too long for his mouth, and his skin too wide for his face, his head like a high-way, with a little heath on either ſide, and his beard bending to the alehouſe, from thence came the Original of his little honor: and for his un<g ref="char:EOLhyphen"/>der proportion, &amp; anſwering to the upper parts, whoſe wit was one<g ref="char:EOLhyphen"/>ly practiſed in villany whoſe heart ſtudied but Hell, while his ſoul was ſworn ſervant to the Divel; and yet this raſcal Viper ſhal, one<g ref="char:EOLhyphen"/>ly with his golden claws, creep into the hands (for in the heart he could never) of a pretty wench, and carry her away in ſuch a world of diſcontentments, that ſhe could never leave ſorrowing, till ſhe got into her grave: would it not fret ſuch a brother, that had ſuch a Siſter: or chafe ſuch a Lover as had ſuch a love, to ſee ſuch an over<g ref="char:EOLhyphen"/>throw of his comfort, or confuſion of his hope.</p>
+            </sp>
+            <sp>
+               <speaker>Fern.</speaker>
+               <p>Oh! <hi>I pray you be not Angry:</hi> for marriage and hanging ſome ſay go by deſtiny: and although hauging is but a ſhort pain, &amp; mar<g ref="char:EOLhyphen"/>riage is a lingring miſery: where diſagreement is a deadly life; yet ſince we cannot go againſt the will of the higher powers, <hi>Pati<g ref="char:EOLhyphen"/>ence</hi> is a plaiſter, that wil in time draw a mans heart out of his bel<g ref="char:EOLhyphen"/>ly, except he have more wit to govern his paſſion, but leaving love ioys, let me tell you, that if a man finding by ſome old writings in his mothers cheſt, that his father had title to a piece of land, which for want of a good purſe, he durſt never make challenge to; &amp; ſay that I were the man, and by the witneſſe of my honeſt ancient neighbours, can approve it in good conſcience to be mine own in right of law; and thereupon asking counſel &amp; paying for words by weight, and by my learned counſel perſwaded, that it is mine paſt all plea: and thus playing with my noſe, or rather with my purſe till all be ſpent: with <hi>Demurs</hi> and tricks, he drives me to beggery, with ſuing for mine own right, while he goes gay with my money,
+<pb facs="tcp:153060:4"/>and I ſtarve with his words: a vengeance upon his crafty tonvey<g ref="char:EOLhyphen"/>ance. Would not this fret a mans ſoul to think on it, and cannot help it.</p>
+            </sp>
+            <sp>
+               <speaker>Fab,</speaker>
+               <p>Now God forbid: <hi>I pray you be not angry:</hi> for Law was ordai<g ref="char:EOLhyphen"/>ned for the beſt; and though in al profeſſions ſome are to blame, yet no doubt, but ſome have ſuch co<g ref="char:cmbAbbrStroke">̄</g>ſciences, that they would not be cor<g ref="char:EOLhyphen"/>rupted for a kingdo<g ref="char:cmbAbbrStroke">̄</g>e, but Courts muſt have their fees, &amp; Schollers muſt not ſtudy for nothing. But for that I am no good Lawyer, nor ever met with any bribes; I have nothing to ſay to the<g ref="char:cmbAbbrStroke">̄</g>; but wiſh the wicked their reward, while the honeſt may take heed by their exam<g ref="char:EOLhyphen"/>ple: &amp; ſo leaving the<g ref="char:cmbAbbrStroke">̄</g> all to the day of their death, I wil tel y<hi rend="sup">u</hi> of ano<g ref="char:EOLhyphen"/>ther matter. Say that I had a friend at leaſt as I take him, and lo<g ref="char:EOLhyphen"/>ving him ſo dearly, that I durſt, nay I do truſt him withall that I am worth &amp; being to take a voyage either upon co<g ref="char:cmbAbbrStroke">̄</g>mand or co<g ref="char:cmbAbbrStroke">̄</g>modi<g ref="char:EOLhyphen"/>ty, fearing ſome il courſes to be take<g ref="char:cmbAbbrStroke">̄</g> for my children if I ſhould dy, knowing wome<g ref="char:cmbAbbrStroke">̄</g> generally, ſo ſorrowful for a loſt husband, that they wil not tarry long for a new: &amp; what fathers in law be to Orphans, while widdows ſigh &amp; ſay nothing, having (in truſt to my friend) made a ſecret deed of gift of all my eſtate unto him, the rather that my wife &amp; children may fare the better, &amp; now I have eſcaped many dangers by ſea and land, &amp; ſpoiled of all I had with me, come home, hoping to find comfort yet at mine own houſe, with that I left be<g ref="char:EOLhyphen"/>hind me: and there no ſooner e<g ref="char:cmbAbbrStroke">̄</g>tred in at the gate, but w<hi rend="sup">t</hi> a coy look, &amp; a cold welcom, I find my wife, either turned out of doors, or ſo baſely uſed within, that ſhe could wel wiſh to be without: &amp; then if I take it unkindly, be bidden mend it as I can; and ſo with a frown or a frump, almoſt thruſt out of doors, be conſtrained to go to law for mine own living, while my miſtaken friend having turned Turk, rates for nothing but his own co<g ref="char:cmbAbbrStroke">̄</g>modity; &amp; co<g ref="char:cmbAbbrStroke">̄</g>trary to all con<g ref="char:EOLhyphen"/>ſcience plays with me for mine own mony, til the Lawyer &amp; he to<g ref="char:EOLhyphen"/>gether have won me quite out of mine own land, and ſo play me the Traytor with my truſt; save me in the miſery of my fortune to end my unhappy days now can you ſay to this, <hi>I pray you be not an<g ref="char:EOLhyphen"/>gry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>Yes very wel; for ſince you ſée no remedy, but God is ſuch a God in the world, as makes the Divel work many wonders among men, is it not better with <hi>Patience</hi> to endure a croſſe, the<g ref="char:cmbAbbrStroke">̄</g> to crucifie the ſoul with impatience: but ſay that you ſhould have a wife that
+<pb facs="tcp:153060:5"/>you thought did love you well, when ſhe would ſtreak your beard, and never lie from your lips, and would ſpeak you as fair as <hi>Eve</hi> did <hi>Adam,</hi> when ſhe cozened him with an Apple, would not abide an Oath for a Buſhel of Gold and be ſo ſparing of her purſe, that ſhe would not loſe the dropping of her noſe; bridle it in her coun<g ref="char:EOLhyphen"/>tenance like a Mare that were knapping on a Cow-thiſtle; would wear no Ruffs but of the ſmall ſet, though of the fineſt Lawn that might be gotten, and edged with a Lace of the beſt faſhion; would not abide no embroidery in her aparel, yet have the beſt ſtuffe ſhe could lay her hands on: and féed ſparingly at dinner, when ſhe hath broke her faſt in the bed; and miſſed not a Sermon, though ſhe pro<g ref="char:EOLhyphen"/>fited little by the Word: This diſſembling piece of fleſh, making a ſhew of lamentation, out of the abundance of her little love, for lack of your good company, if you were but a mile out of the Town; and if you were to take a journy, would lay an Onion to her eys. to draw out the Rhinne inſtead of tears, and having eaten an Apple, with pinching in a backward wind, ſend out a belching ſigh for ſor<g ref="char:EOLhyphen"/>row of the abſence of her Gooſe-man: and then after all theſe, and a world of other tricks, to bring a man in bad belief of her good mind: if you returning home a night ſooner then expected, and a year ſooner than welcome ſhould (having keys to your own doors) come in, and find in your own bed betwixt the arms (I go no lower) of your too much beloved, the living carkaſs, of a lubberly raſcal, or perhaps the perfumed corps, of ſome dainty co<g ref="char:cmbAbbrStroke">̄</g>panion, working upon the ground of your pleaſure, to plant the fruit of idle-fancy to the horn-greif of your poor heart; could you be pacified with, <hi>I pray you be not Angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>Indéed you put me to it with an <hi>If:</hi> but I hope there are no ſuch women, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e for ſhame it were enough to make murther but <hi>Pa<g ref="char:EOLhyphen"/>tience</hi> being the mean to ſave many a mans life, and y<hi rend="sup">e</hi> perhaps being her firſt, &amp; ſhe upon repentance after a ſecret reprehenſion likely to turn honeſt, were it not better to ſteat away, and have her maid to wake her, the matter cleanly ſhuffled up, and ſhe with ſorrow rather to confeſs it in ſecret and to be ſorry for it, and in ſhame of her fault to leave it while few knew it, rather the<g ref="char:cmbAbbrStroke">̄</g> in a fury or a frenzy bring in your neighbours, raiſe up your houſe, beat your wife impriſon the knave, bring your wife to ſhame, and make the world privy to your cuckoldry: and ſo ſhe in a deſperate madneſſe, either ſhameleſſe after a little ſhame, or graceleſſe, in impatience to bear her correcti<g ref="char:EOLhyphen"/>on,
+<pb facs="tcp:153060:5"/>either cut her own throat or yours, or both, &amp; ſo all come to con<g ref="char:EOLhyphen"/>fuſion through lack of a little charitable diſcretion: No, God for<g ref="char:EOLhyphen"/>bid for rather then any ſuch miſchance ſhould befall is it not better to ſay, <hi>I pray you be not angry.</hi>
+               </p>
+               <p>For to quit your diſcontentment, ſay that I ſhould (as God forbid I ſhould) have married an honeſt woman, that hath brought me ma<g ref="char:EOLhyphen"/>ny pretty children, is a good houſewife in her houſe, carefull for her children, and loving both to them and me, and for the ſpace of many years, with a good opinion of all her neighbours, and good credit w<hi rend="sup">t</hi> all that know her, had paſſed ſome ſcore of years or two with me, with as much contentment as a reaſonable man might deſire: and to make her amends for all her kindneſſe, I ſhould either take a whore into my houſe, or keep her as a hackney at rack and manger abroad, ſo long till being led by the noſe, to believe that ſhe loves me, when I pay for y<hi rend="sup">e</hi> nurſing of half a dozen of baſtards: of which if I be the wicked father, my conſcience hath little comfort in: &amp; if any other (as tis moſt likely) be y<hi rend="sup">e</hi> father or fathers, how am I beguiled to play poor noddy, to let my purſe bloud to pay for y<hi rend="sup">e</hi> maintaining of anothers pleaſure. And at the laſt if ſhe find his abridge my libe<g ref="char:EOLhyphen"/>rality, in a venomous humour come with an out cry to my dore, with a neſt of her fellow beggers, and there with railing upon me, calling me old letcher whoremonger and I know not what lay her brats down before my gate, and ſo with gaping mouth go her way, leaving me to my purſe onely to ſéek the ſaying of my credit, and ſo become a grief unto my wife, a ſorrow<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> children, and a laugh<g ref="char:EOLhyphen"/>ing ſtock to mine enemies, a by-word among my neighbors, a ſhame to my ſelf, &amp; an enemy to mine own ſoul: and thus ſeeing my wealth waſted, my credit loſt and impaired, and God ſo diſpleaſed, that I know not which way to turn my ſelf; ſhall I neither <hi>be angry</hi> with y<hi rend="sup">e</hi> whore for bewraying me, nor with my ſelf to let her ſo befool me?</p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>No; I ſay as I did, <hi>I pray you be not angry:</hi> for ſhe did but her kind to uſe her eys to the benefit of the reſt of her members; &amp; you therefore being a man of judgement, ought rather to be ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry for her wickedneſs, than to ſhew your own weakneſſe, in ſuch years to have a thought of wantonneſs: but ſure y<hi rend="sup">e</hi> fleſh is weak and the ſtrongeſt may fall: better is a ſorrowful repentance than a fretting madneſſe: and ſince fretting at your own folly will not get you a foot of earth more then your grave, be not at wars with your ſelf to no purpoſe;
+<pb facs="tcp:153060:6"/>ceaſe from doing evil, make much of your honeſt wife, ſerve God in true repentance, and the Divel ſhall do you no hurt: For is it not better to bear your croſſe (eſpecially being of your own making) than to run into further miſchief, by the wicked humour of impati<g ref="char:EOLhyphen"/>ence? But to the purpoſe: ſay this (to quit you with an other pro<g ref="char:EOLhyphen"/>poſition) put the caſe that I being (as you ſée) a proper man, and in the way of good ſpéed with a handſome woman, and ſhe in ſtate able to do for an honeſt man that would love her, and make much of her, and I have an intent to deal honeſtly with her, and ſhe gives me her faith and troth, and ſwears by her very ſoul, that I have her heart ſo faſt no man ſhall have her hand from me; and I thinking becauſe ſhe is old ſhe is honeſt, and becauſe ſhe ſwears, that ſhe ſaith true, go about my beſineſſe as ſhe bids me for ſome few days, and then to re<g ref="char:EOLhyphen"/>turn to the ioyning up of the matter betwixt us; and in the mean time, after I have ſpent perhaps more then my half years wages upon her in wine and ſugar and good chear, and hope to come to be merry, come and find her married to a filthy couſening knave, who by a little more money then I had in my purſe for the preſent, to bribe another raſcal like himſelf, who was the maker of the match, dwels in my hoped houſe, gives the bag for my mony, and hath my fat old ſow in ſuch a ſnare that there is no getting of her out again; when I am thus handled for my good will w<hi rend="sup">t</hi> this wicked old piece of whit-leather to put my truſt in an old hogs-ſty for my habitation, and to be thruſt out of do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for my labour, ſhall I not <hi>be angry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>Oh no in any <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> women have wits beyond mens rea<g ref="char:EOLhyphen"/>ſon, eſpecially when they are paſt a child or child bearing, more than they that are paſt children. Oh I tell you, it is a perilous thing to ſlip occaſion in matters of love; and age is either froward or frail: and therefore you ſhould rather have fed her humor full ere you had left her, than to think ſhe would be unprovided till you ſhould come again to her: and therefore I ſay as you ſay <hi>I pray you be not angry.</hi> For I wil tel you, ſay that I being a man every way to content an honeſt woman, and having unhappily beſtowed my ſelf upon a wo<g ref="char:EOLhyphen"/>man of the worſt kind, which before I married her was neither widdow, maid, nor wife but a plain whore: and this miſery of my days being by my folly brought to ſome better ſtate than ſhe were worthy; and ſeeing her ſelf in a glaſſe grown fat through good fare and eaſe, &amp; ſetting her countenance even with the pride of her folly,
+<pb facs="tcp:153060:6"/>beginning to think better <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Pariſh beſides, ſhould chance upon a little kindneſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grow in love with my Kinſ<g ref="char:EOLhyphen"/>man, or he with her, and ſo they grow ſo great, that I ſhall ſtand like <hi>John-hold-my-ſtaff,</hi> while they take their pleaſure: ſhe ſhould ſit at the upper end of the table, and I at the nether end: ſhe lie in one chamber and I in another, and yet muſt not find fault with it for fear of a ſtab, or a fig, or ſome other villany; but with a ſéeming countenance bear all, as if Pudding were the onely Meat of the world while one makes horns at me, another moes at me, another cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me cuckold another wittal, and I know all to be true and can<g ref="char:EOLhyphen"/>not or dare not do withal: do you think that fleſh and bloud can bear with this and not <hi>be angry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>Yes, very well, for as you have fleſh and bloud, ſo you have wit and reaſon: and when your wit and reaſon can conſider, how her trade brings more commodity, and with leſſe travel, than your traffick, if you be not wilfull, that you will hear no body ſpeak but your ſelf, or ſo ſcornfull that you can endure no companion in kind<g ref="char:EOLhyphen"/>neſſe, or ſo covetous, that you will not ſpare a penny towards the nurſing of your neighbours child or ſo proud that you ſcorn the gift of a friend; you wil find that ſuch a wife is worth two Milch-cows: and whatſoever the world ſays, you are beholding to none but her: and where others beggar their Husbands, ſhe hath made you the Head man of the Parriſh: and then cannot you wink at a little fault that is ſo full of profit? Yes I warrant you: and therefore I may well ſay, <hi>I pray you be not-angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>True, it may be that ſome good Aſſe that knows not how to live without the baſeſt trade of beggary, will put on any Pati<g ref="char:EOLhyphen"/>ente for Profit: but from ſuch a raſcal nature God deliver me. But to requite you with as good as you bring let me tell you: if I ſhould ſerve a man of great wealth, and he have a wenching humour, and he kéeping more Maid-ſervants in his houſe than ever meant to be true Virgins, and one of theſe mad eattel, that for the price of a red petticoat would venture the lining of her placket, ſhould by a miſ<g ref="char:EOLhyphen"/>chance of her Maſters making, fall into a Two-heeled-Timpany, which could by no means be cured without my conſenting to a wic<g ref="char:EOLhyphen"/>ked marriage for a little mony; which I by the villany of the Trul which would put the trick upon me muſt ſéem willingly to yéeld unto, for fear of I know not what to fall out I know not why: and
+<pb facs="tcp:153060:7"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> own hearts comfort, when <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> delivered of this miſchief, hoping that ſhe would meddle no more with any ſuch matters, be<g ref="char:EOLhyphen"/>gin to make a little more of her than ſhe was worthy: and ſhe there<g ref="char:EOLhyphen"/>upon grown ſo luſty, that ſhe cared not for the Parriſh ſo long as the Conſtable was her friend, give enterttainment to whom ſhe liſt, and uſe me as ſhe liſt, ſet more horns than hairs on my head and care not if I were hanged for my good will: This Raſcal, round<g ref="char:EOLhyphen"/>about, without good complexion or good condition as ill-favoured as mannered and ſo ſpoken as wicked, being thus void of grace, careleſſe of all credit and irremovable in her reſolution for the wicked courſe of her life; this (I ſay) helliſh piece of fleſh, to do<g ref="char:EOLhyphen"/>mineer over me, and with the countenance of her Maſter, to make a ſlave of her Good-man who ſhould, be ſent on Errands, while ſhe were with her Arrants; I ſhould fetch wine for their drink<g ref="char:EOLhyphen"/>ing, turn the ſpit to their Roaſt-meat, or walk their horſes while they were ſaddling my Fillie: And yet all this, and I ſay not what elſe, I muſt bear, as though it were no burthen for a ſmall rec<g ref="char:EOLhyphen"/>koning at the weeks end for waſhing of a foul ſhirt or ſetting of my Ruffs right, or ſéething of a Calves head, or making ſawce to a tame g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe, or for a nod of my Maſter, that makes a noddy of his Servant: for ſuch and ſuch like matters to put up all matters and ſwallow grief in my throat, that it is ready to choke me in the go<g ref="char:EOLhyphen"/>ing down: is it poſſible to do all this, that You could be I and <hi>not be angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>Yes very well, for profit is ſo pleaſing, that it puts out a great many ill thoughts that would trouble a man that hath no wit; and for honeſty, it is a good thing, I muſt confeſſe: but if a man be not born rich, and keep himſelf ſo he ſhall gain little by ſimpli<g ref="char:EOLhyphen"/>city: and therefore (as I ſaid) where Patience brings Profit. I ſay ſtill, bear with your Fortune, and <hi>be not angry.</hi> But leaving to talk more of Female diſcontentments, let me ſay this: That I, being a man of ſufficiency to ſupply the Office of a good place born of a Noble houſe, bred up in all courſes requiſite for a Gentleman, have travelled divers Countries, ſeen much of the World by Sea and Land, and through want of my Fathers diſcretion, not left ſo good a Portion as may maintain my Reputation, without ſome better matter then mine own Eſtate, and driven for my better
+<pb facs="tcp:153060:7"/>comfort, to put my <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> know not what hath made rich; and being onely wiſe in the world, hath no féeling of Gods grace, but by a thouſand ill practiſes, finds the mean before his death to look over a great deal of more ground than his Grave; and this Captain of the damned crew, who is haled to Hell with a world of chains the Son of a Beggar, and Brother to a Villain to govern over the honeſty of my heart, with the commandement of evil ſervice; or (finding me not for his humour, to frown upon me like an old Frying-pan, or to rate me like a Dog becauſe I will not be a Dovil; to be impleyed in more vileneſſe then half a Chriſtian could endure to hear of: now (I ſay) to ſpend my time in this miſery, onely for picking of a Satlad waiting at a trencher, looking on a fair Houſe, making courteſie to an old Relique, hold the Baſon to the Rhume, or hea<g ref="char:EOLhyphen"/>ring the Muſick of a cotten Cough; and after many years Pati<g ref="char:EOLhyphen"/>ence in this Purgatory, where all the wisdome I have learned, were but to corrupt the nature of a good wit, either for a trifle to be frowned at, and by tricks to be wrought out; or with a Livery without a Badge, to ſeek my fortune in ſome other ſoil, to have ſer<g ref="char:EOLhyphen"/>ved long for Nothing or for Worſe than Nothing when Diſcon<g ref="char:EOLhyphen"/>tentments muſt be cancelled, and I (for fear of a miſchief) muſt ſpeak all Honour of Diſhonour, and with a Merry-go-ſorry ſigh out my days that are no better bleſt: when I ſhall ſée a Fool graced, and better Wits put down, Honeſty ſcorned, and Knavery in more ac<g ref="char:EOLhyphen"/>count then commendable; and I, cozening my ſelf with an imagi<g ref="char:EOLhyphen"/>nation<g ref="char:punc">▪</g> that ſervice was an heritage, where I found nothing but loſſe of time and repentance have I not cauſe think you with all this <hi>to be angry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>And yet I ſay, <hi>I pray you be not angry:</hi> For if you had ſo muth of the Grace of God, as to make you rather leave the hopes of Preferment than yield to an ill imployment, no doubt, but ei<g ref="char:EOLhyphen"/>ther your private life will find ſome ſecret contentment, or your Patience will find ſomewhere the advancement of your vertues: and therefore rather be joyfull of Gods bleſſing, than impatient with your Fortune, and think not amiſſe that I ſay, <hi>I pray you be not angry,</hi> But to requite you: Say that I having more money in my purſe then a wiſe man would part with but upon the better reckoning ſhould be perſwaded to play the Vſurer, &amp; ſo with a lit<g ref="char:EOLhyphen"/>tle
+<pb facs="tcp:153060:8"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> cunning <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhould be brought in hope of gain to take in pawn for my mony ſome leaſe of a good farm, or piece of rich plate: which being not fetched by the day of payment, would return me more then double my mony: put my mony out of my hands, which I have fared full hard to get together, and I glad of my forfeit, hoping to gain more then a good conſcience would a<g ref="char:EOLhyphen"/>way withall, find my leaſe not worth a point, by a former déed of gift or ſuch a conveyance as carrieth all away from my fingers, and leave me (for all my cunning) in the law, to plead repentance to my folly: or my plate challenged for ſome piece of pilfery &amp; I brought in trouble for I know not what, and to get out I know not how, till I have brought my ſtock to a poor ſtate where. I may ſee the juſt reward of Vſury; when I look in my purſe and find nothing, would not this make one <hi>angry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>Not a whit: For Knaves will be Knaves, and Fools muſt be bitten ere they be wiſe; of which if you be none, no doubt but there are enough in the world. And ſince all the <hi>anger</hi> in the world will not recover a penny loſs, let me ſay to you as you ſay to me, <hi>I pray be not angry.</hi> And let me tell you that upon a time it was my hap to have a friend (as I thought) whom I loved dearly: and building upon the care of his conſcience, that for a world of wealth he would not play the <hi>Jew</hi> with me; it fell out, that I having more then a moneths mind to a wench above a year old whoſe worthineſs might command a far better ſervant than my ſelf, and yet it had ſo fallen out betwixt us, that our Affections were ſo ſettled, that I thought (without death) there could be no remove: and therefore fearing no Fortune relying ſo much upon her Love, loving (as I ſaid) my ima<g ref="char:EOLhyphen"/>gined friend more then a wiſe man ſhould do (for there is a meaſure to be kept in all things) made him acquainted with my ſerreſſe, iou<g ref="char:EOLhyphen"/>ching the intent to ſteal away my Miſtreſſe from the place where ſhe had no pleaſure to be kept in, as ſhe had béen long like a chick<g ref="char:EOLhyphen"/>en in a coop; and to the performing of this purpoſe, hoping to have uſe of his beſt help, deliver him a ring, or a jewel of ſome value to preſent unto my Love, when I know his means better then mine own, to have acceſſe unto her without ſuſpition; and he after a world of Proteſtations ſealed with too many Oaths, to deal ſo faithfully, carefully, and ſecretly for me, as my heart could deſire, when faith
+<pb facs="tcp:153060:8"/>there was none, nor care of me, nor care of me, nor ſecreſie but in kée ping all from me, when like a diſſembling <hi>Jow</hi> he uſeth my Iewel for a mean to rob me of my better Iewel: when he preſented it as for himſelf, and revealing ſome matter of ſecreſie betwirt us, unpleaſing to her, and nothing to my profit, with inchanting charms wins her affecti<g ref="char:EOLhyphen"/>on and borroweth my money to cut my throat till having carried a<g ref="char:EOLhyphen"/>way my miſtris, he either laugh at me, or write me, a letter to co<g ref="char:EOLhyphen"/>logue with me: when I think how with truſting a knave. I have played the fool, in conſcience ſay, if ever man would fall out with himſelf have not I <hi>cauſe to be angry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fab.</speaker>
+               <p>No, for as you ſaid to me, knaves will be knaves, and in matters of love, he that will not be the follower of his own cauſe, may happen to be over thrown in his own ſute, and to look for con<g ref="char:EOLhyphen"/>ſtancy in woman, eſpecially, of a woman in young years, when gifts and bribes are able to work great matters in thoſe courſes, it is a meer folly: for ſay that ſome are, I know not how many, as con<g ref="char:EOLhyphen"/>ſtant as <hi>Penelope,</hi> yet let <hi>Danae</hi> take heed of a golden ſhower in her lap: and therefore <hi>I pray you be not angry.</hi> For lot me tell you to be deceived by a friend it is an ordinary matter: to looſe a wench, it is a thouſand mens fortunes: and therefore ſince ſhe was ſo fickle to truſt to think her better loſt then found, and for him get your gol<g ref="char:EOLhyphen"/>den Iewels and your mony from him, and let him walk with his wirked houſhold-ſtuffe; and let me tell you of a diſcontentment of mine. It was my hap, I may ſay my ill hap to caſt my affection of late on a very proper young man of a pure complexion, neither effe<g ref="char:EOLhyphen"/>minate nor courſe faced, neither of Lether-ſellers, nor Painters comp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny but a good feature and well coloured: and for his counte<g ref="char:EOLhyphen"/>nance, neither <hi>Paul-ſleeple</hi> height, nor with the fall of the tide; but carried in ſo good a meaſure, as ſhewed his wits no more out of or<g ref="char:EOLhyphen"/>der then his members: for his voice, neither Treble nor Baſe, but a good mean: and his ſpéech neither Rhetorical, nor Logical, nor Tragical nor Colaſtical: but ſuch as neither too little nor too much anſwering directly to every queſtion: and ſpeaking neceſſarily upon good occaſion, wan him ſuch commendation for his diſcretion, as increaſing much my affection, made me (as I thought) upon good judgement, make him a ſubject of my contentment: in brief I ſing<g ref="char:EOLhyphen"/>led him out of company, to make him my compa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, to<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him in<g ref="char:EOLhyphen"/>to my houſe, beſtowed bountifully upon him, let hi<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap> want <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny
+<pb facs="tcp:153060:9"/>thing that was néedfull for him: my table to dine at a fair chamber for his lodging, yea and ſometimes made him my bed-fellow, furni<g ref="char:EOLhyphen"/>ſhed him with money, horſe, apparel, books, and credit for whatſoe<g ref="char:EOLhyphen"/>ver he would demand yea, and in mine abſence truſted him with the government of my whole houſe; till my favour bred in his folly that, that at the firſt I ſaw not, ſuch a preſumption of his own wor<g ref="char:EOLhyphen"/>thineſſe as I liked not, where contronling even my ſelf for a trifle, himſelf to blame in the ſelf-ſame nature, for a greater matter, thin<g ref="char:EOLhyphen"/>king all too little that was done for him, and urging more then was meet for him: at laſt, not able to ſuppreſſe the venome of his pride, till his heart made his head ſwell as big as a cods-head, in recompence of all my kindneſſe, plays falſe with my ſervant-maid, ſteals away my eldeſt daughter, robs my coffers, cracks my credit, befools my wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; doth what he may to ſéek the ruine of my eſtate; is it poſſible that a man could think of ſuch a villain, and <hi>not be angry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fer.</speaker>
+               <p>Yea very wel, and I ſay unto you, <hi>I pray you be not angry<g ref="char:punc">▪</g>
+                  </hi> for ſtill knaves will be knaves, and a man had néed eat a buſhel of ſalt with a man, before he go toe far to truſt him; for he was a worldling and out of the ſimplicity of your honeſty, thinking him to be that he was not, might learn him to truſt his like, or any at all, at leaſt with your houſe your daughter (if you have any) or your ſervants, if you kéep any: and having <hi>Patience</hi> with your lack of judgement, do for your daughter as you have cauſe in nature and reaſon, and pray in charity for his ſoul, what ever be<g ref="char:EOLhyphen"/>comes of his carkaſſe: and ſince I hope you will take this for no ill councel I ſay as I did, <hi>I pray you be not angry.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
